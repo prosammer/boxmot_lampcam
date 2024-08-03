@@ -92,6 +92,14 @@ Today's multi-object tracking options are heavily dependant on the computation c
 
 ## Installation
 
+*Note - need to run:
+```bash
+sudo apt-get update
+sudo apt-get install libgl1
+```
+
+in codespace before starting.
+
 Start with [**Python>=3.8**](https://www.python.org/) environment.
 
 If you want to run the YOLOv8, YOLO-NAS or YOLOX examples:
